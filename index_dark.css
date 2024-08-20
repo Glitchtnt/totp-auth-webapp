@@ -1,6 +1,6 @@
 body
 {
-    color: #598de0;
+    color: #b80404;
     background: #1b1b1b;
 }
 
@@ -46,7 +46,7 @@ body
 .toast
 {
     color: #1b1b1b;
-    background-color: #598de0;
+    background-color: #b80404;
 }
 
 #totp-label
@@ -56,5 +56,5 @@ body
 
 #totp-token-remaining-seconds-pie > circle
 {
-    stroke: #598de0;
+    stroke: #b80404;
 }
